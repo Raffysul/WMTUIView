@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WMTUIView</string>
+    <string name="image_view">image_view</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="bio">Bio</string>
+    <string name="update">Update</string>
+</resources>
